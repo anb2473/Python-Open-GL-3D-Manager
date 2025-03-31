@@ -1,0 +1,18 @@
+# Blender 4.3.2 MTL File: 'cliff_side_2k.blend'
+# www.blender.org
+
+newmtl cliff_side
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd C:/Users/austi/Downloads/cliff_side_2k.blend/textures/cliff_side_diff_2k.jpg
+map_Pr C:/Users/austi/Downloads/cliff_side_2k.blend/textures/cliff_side_rough_2k.exr
+map_Bump -bm 1.000000 C:/Users/austi/Downloads/cliff_side_2k.blend/textures/cliff_side_nor_gl_2k.exr

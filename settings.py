@@ -1,0 +1,11 @@
+# Light Intensities
+SPECULAR_INTENSITY = 1.0
+AMBIENT_INTENSITY = 0.1
+DIFFUSE_INTENSITY = 0.8
+
+# Camera Settings
+FOV = 50  # degrees
+NEAR = 0.1
+FAR = 100
+SPEED = 0.01
+MOUSE_SENSITIVITY = 0.1

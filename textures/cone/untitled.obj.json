@@ -1,0 +1,15 @@
+{
+  "created_at": "2024-12-22T10:42:40.137293",
+  "version": "0.1",
+  "mtllibs": [
+    "untitled.mtl"
+  ],
+  "vertex_buffers": [
+    {
+      "material": "default0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 0,
+      "byte_length": 5952
+    }
+  ]
+}
